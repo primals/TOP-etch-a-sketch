@@ -1,1 +1,3 @@
 # TOP-etch-a-sketch
+
+The Odin Project Etch-a-Sketch project using flexbox and DOM maniupalation 
